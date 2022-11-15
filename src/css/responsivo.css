@@ -1,0 +1,25 @@
+@media screen and (max-width:1260px) {
+    .banner h2 {
+        font-size: 3.5rem;
+    }
+
+    .banner p {
+        font-size: 1.2rem;
+    }
+
+    .text-container {
+        justify-content: end;
+    }
+
+}
+
+@media screen and (max-width:1000px) {
+    .banner h2 {
+        font-size: 2.5rem;
+    }
+
+    .banner p {
+        font-size: 1.1rem;
+    }
+
+}
